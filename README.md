@@ -10,6 +10,7 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 
 ## 🎓 Aprendizado
 - [Codewars](https://www.codewars.com) – Desafios organizados por nível
+- [Codedex](https://www.codedex.io) - Game de aventura codando
 - [Exercism](https://exercism.org) – Aprendizado de linguagens com mentoria
 - [Frontend Mentor](https://www.frontendmentor.io) – Desafios reais de front-end
 - [HackerRank](https://www.hackerrank.com) – Plataforma de desafios
@@ -34,10 +35,13 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [Grabient](https://grabient.com) – Geração de gradientes personalizáveis
 - [Neumorphism](https://neumorphism.io) – Estilos de neumorfismo
 - [UI Gradients](https://uigradients.com) – Biblioteca de gradientes
+- [Uiverse](https://uiverse.io) - Catalogo de UI
+- [Pqoqubbw](icons.pqoqubbw.dev) - Coleção de icones, figuras, animações para o seu projeto
 
 ## 🎨 Design
 - [Canva](https://www.canva.com) – Edição de imagem e criação de design
 - [Dribbble](https://dribbble.com) – Inspiração para UI/UX
+- [Mobbin](https://mobbin.com) - Inspiração pra design e ideias
 - [Figma](https://www.figma.com) – Organização de projetos e criação
 
 ## 🤖 Inteligência Artificial
@@ -46,6 +50,9 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [Mutable AI](https://mutable.ai) – Geração e refatoração de código
 - [Runway ML](https://runwayml.com) – Criação de imagens e vídeos com IA
 - [Tabnine](https://www.tabnine.com) – Sugestões de código com IA
+- [V0Dev](https://v0.dev) - Templates prontos e com IA
+- [CloneUIDesign](https://clone-ui.design) - Clona a UI de projetos
+- [Lovable](https://lovable.dev) - IA de chat
 
 ## 🖼️ Imagens
 - [Let's Enhance](https://letsenhance.io) – Melhora a qualidade e resolução de imagens com IA
@@ -80,11 +87,12 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [Codante.io](https://codante.io) - Site com mini projetos e testes técnicos
 - [CodePen](https://codepen.io) – Teste e compartilhe trechos de código HTML, CSS e JS
 - [FreeFrontend](https://freefrontend.com) – Exemplos e snippets de HTML, CSS e JS
-- [JSFiddle](https://jsfiddle.net) – Teste scripts e APIs
+- [HTMLrev](https://htmlrev.com) - Templates de HTML
 
 ## 🔎 Teste e Depuração
 - [BrowserStack](https://www.browserstack.com) – Teste sites em múltiplos navegadores
 - [Insomnia](https://insomnia.rest) – Alternativa ao Postman
+- [JSFiddle](https://jsfiddle.net) – Teste scripts e APIs
 - [Postman](https://www.postman.com) – Teste de APIs
 - [Regex101](https://regex101.com) – Teste expressões regulares
 - [Responsively](https://responsively.app) – Visualize sites em diferentes telas
@@ -104,7 +112,7 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [Uithub](https://uithub.com)  – Plataforma para gerar insights de repositórios Git (Gera a estrutura LLM do projeto)
 - [Wappalyzer](https://www.wappalyzer.com) – Detecta tecnologias usadas em sites
 - [WhatRuns](https://www.whatruns.com) – Identifica frameworks e bibliotecas usadas em sites
-
+- [DeviceSimulator](https://device-simulator.vercel.app) - Extensão que simula várias telas e resoluções
 
 ## 👥 Contribuidores
 
