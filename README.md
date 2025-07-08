@@ -57,7 +57,7 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [Figma](https://www.figma.com) – Organização de projetos e criação
 - [Lordicon](https://lordicon.com) – Ícones animados com Lottie
 - [Pqoqubbw](icons.pqoqubbw.dev) – Coleção de icones, figuras, animações para o seu projeto
-- [SVG Shape Generator (Softr)](https://www.softr.io/tools/svg-shape-generator) – Gerador de formas SVG personalizadas para seus projetos
+- [SVG Shape Generator (Softr)](https://www.softr.io/tools/svg-shape-generator) – Gerador de formas SVG personalizadas
 - [unDraw](https://undraw.co) – Ilustrações vetoriais gratuitas
 
 
@@ -79,6 +79,7 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [V0Dev](https://v0.dev) - Templates prontos e com IA
 - [CloneUIDesign](https://clone-ui.design) – Clona a UI de projetos
 - [Lovable](https://lovable.dev) – IA de chat
+- [DBExpert](https://dbexpert.usecurling.com) - Criação de bancos e analise com IA
 
 
 ## 🖼️ Imagens
@@ -120,7 +121,7 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [CodePen](https://codepen.io) – Teste e compartilhe trechos de código HTML, CSS e JS
 - [FreeFrontend](https://freefrontend.com) – Exemplos e snippets de HTML, CSS e JS
 - [HTMLrev](https://htmlrev.com) – Templates de HTML
-- [Roadmap.sh](https://roadmap.sh) –
+- [Roadmap.sh](https://roadmap.sh) – Visualização de roadmap para diversos assuntos
 
 
 ## 🔎 Teste e Depuração
