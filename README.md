@@ -152,6 +152,8 @@ Este README reúne uma coleção de ferramentas úteis para designers, desenvolv
 - [Wappalyzer](https://www.wappalyzer.com) – Detecta tecnologias usadas em sites
 - [WhatRuns](https://www.whatruns.com) – Identifica frameworks e bibliotecas usadas em sites
 - [WebCode Tools](https://webcode.tools) – Geradores de código para web
+- [Readme Typing SVG](https://readme-typing-svg.herokuapp.com/demo) - Gerador de texto dinâmico para Readme
+- [Capsule Render](https://capsule-render.vercel.app) - Gerador de imagem para cabecalho de Readme
 
 
 ## 👥 Contribuidores
